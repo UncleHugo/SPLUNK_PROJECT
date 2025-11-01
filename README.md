@@ -1,6 +1,6 @@
 # SPLUNK_PROJECT
 
-Splunk is a powerful platform that can be used for security incident handling in various ways. It is widely used in Security Operations Centers (SOCs) and by cybersecurity professionals to analyze and respond to security incidents. Splunk's capabilities make it a valuable tool for security incident handling, enabling quicker detection, efficient investigation, and effective response to security incidents. Splunk are also used by Devops, IT teams etc.
+Splunk is a powerful platform that can be used for security incident handling in various ways. It is widely used in Security Operations Centers (SOCs) and by cybersecurity professionals to analyze and respond to security incidents. Splunk's capabilities make it a valuable tool for security incident handling, enabling quicker detection, efficient investigation, and effective response to security incidents. Splunk can also be used by Devops and IT teams.
 
 Here are some key ways Splunk can be utilized for security incident handling:
 
