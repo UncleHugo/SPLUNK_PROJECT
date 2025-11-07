@@ -6,7 +6,14 @@ By correlating the User and Source Network Address, we can identify suspicious a
 The Host field helps trace which specific system or domain controller logged the event, while the Timestamp provides chronological context for incident reconstruction.
 
 This dataset was extracted and visualized using Splunk’s search and filtering capabilities, leveraging the EventCode=4625 (Windows failed logon) events.
+
 index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"
+
+<img width="1707" height="871" alt="image" src="https://github.com/user-attachments/assets/6032c045-b13d-4a8c-9bf5-4408748a2b96" />
+
+
+
+
 
 
 
