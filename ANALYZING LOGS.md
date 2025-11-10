@@ -18,6 +18,10 @@ index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"
 
 <img width="920" height="416" alt="image" src="https://github.com/user-attachments/assets/744ccd27-0865-4004-8784-ee2c68ebdfea" />
 
+The Splunk dashboard was configured in real time, with data set to refresh every five minutes.
+
+<img width="576" height="324" alt="Untitled" src="https://github.com/user-attachments/assets/fe4b6580-7d91-4201-9a05-6a363eb0ed3a" />
+
 
 
 ### Top 20 count of Intruders source IP and Workstation_Name with Failed Login in the last 7 days.
@@ -31,6 +35,7 @@ index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"
 *_index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"| top limit=20 Workstation_Name_*
 
 <img width="1597" height="856" alt="image" src="https://github.com/user-attachments/assets/613c3a7b-950b-49ce-875b-2e3c12a9ce16" />
+
 
 
 
