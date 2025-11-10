@@ -16,6 +16,16 @@ index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"
 <img width="1684" height="851" alt="image" src="https://github.com/user-attachments/assets/9a9145d8-68e6-4998-827f-f4ced167b1b0" />
 
 
+### Top 20 count of Intruders source IP and Workstation_Name with Failed Login in the last 7 days.
+
+
+<img width="1837" height="941" alt="image" src="https://github.com/user-attachments/assets/da0ae426-9c3e-4552-b1d4-501541db8323" />
+
+
+*_index="splunk-ds-index" source="WinEventLog:Security" "EventCode=4625"| top limit=20 Workstation_Name_*
+<img width="1597" height="856" alt="image" src="https://github.com/user-attachments/assets/613c3a7b-950b-49ce-875b-2e3c12a9ce16" />
+
+
 
 
 
