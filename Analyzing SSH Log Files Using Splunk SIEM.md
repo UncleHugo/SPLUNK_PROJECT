@@ -11,9 +11,7 @@ SSH (Secure Shell) log files contain valuable information about remote access to
 <img width="1652" height="703" alt="image" src="https://github.com/user-attachments/assets/e9f54e0d-454d-44f8-8c08-ef3b096e16e7" />
 
 
-
-
-<img width="1641" height="435" alt="image" src="https://github.com/user-attachments/assets/fa3c3083-a9b1-410d-a4f8-b9ac75a8250f" />
+<img width="1552" height="614" alt="image" src="https://github.com/user-attachments/assets/4a7e2e44-df03-4a66-8674-546e90e1f3b0" />
 
 
 
