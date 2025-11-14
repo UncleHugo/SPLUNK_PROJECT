@@ -8,17 +8,19 @@ SSH (Secure Shell) log files contain valuable information about remote access to
 - Navigate to Settings > Add Data.
 - Select Upload as the data input method.
   
-<img width="1652" height="703" alt="image" src="https://github.com/user-attachments/assets/e9f54e0d-454d-44f8-8c08-ef3b096e16e7" />
+<img width="1529" height="651" alt="Screenshot 2025-11-14 123315" src="https://github.com/user-attachments/assets/11cdbfc1-aab5-4378-a051-9b1b564697ea" />
 
 
-<img width="1552" height="614" alt="image" src="https://github.com/user-attachments/assets/4a7e2e44-df03-4a66-8674-546e90e1f3b0" />
-
+<img width="1489" height="461" alt="Screenshot 2025-11-14 123941" src="https://github.com/user-attachments/assets/c95cc93b-c291-4d16-8a28-6a79ae9a7901" />
 
 
 <img width="744" height="215" alt="image" src="https://github.com/user-attachments/assets/82c28deb-97bd-4099-82cd-1f95efccee46" />
 
+<img width="1833" height="894" alt="image" src="https://github.com/user-attachments/assets/1408f65c-e60a-4dd0-adb7-48b599dd9481" />
 
-<img width="1868" height="787" alt="image" src="https://github.com/user-attachments/assets/98fe9550-7a2e-4685-be61-0435ad87f865" />
+
+
+
 
 
 
