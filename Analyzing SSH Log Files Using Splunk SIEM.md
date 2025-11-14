@@ -38,10 +38,21 @@ index="splunk-ds-index" sourcetype="csv" source="SSH.csv"
 
 <img width="1752" height="734" alt="image" src="https://github.com/user-attachments/assets/5abddd24-faa6-402e-a2cc-c7847026070c" />
 
+#### Monitor User Behavior
+
+- Identify src_ip with multiple failed login attempts:
+
+index="splunk-ds-index" sourcetype="csv" source="SSH.csv"
+| search action="failure"
+| top limit=10 src_ip
+
+<img width="1441" height="725" alt="image" src="https://github.com/user-attachments/assets/836390e8-7f58-43c7-8ed5-0cb94b73ea25" />
 
 
+<img width="1432" height="774" alt="image" src="https://github.com/user-attachments/assets/d4e1684f-e888-4953-a637-75209ad5f4db" />
 
-
+### Conclusion after Analyzing
+Analyzing SSH log files using Splunk SIEM, provides valuable insights into remote access to servers within a network. By monitoring SSH events, detecting anomalies, and correlating with other logs, organizations can enhance their security posture and protect against unauthorized access and potential security threats.
 
 
 
