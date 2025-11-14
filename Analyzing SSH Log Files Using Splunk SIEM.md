@@ -18,6 +18,14 @@ SSH (Secure Shell) log files contain valuable information about remote access to
 
 <img width="1833" height="894" alt="image" src="https://github.com/user-attachments/assets/1408f65c-e60a-4dd0-adb7-48b599dd9481" />
 
+### Analyze SSH Activity Patterns
+
+Identify top users or source IP addresses accessing the SSH server:
+
+index="splunk-ds-index" sourcetype="csv" source="SSH.csv"
+| top limit=10 user src_ip
+
+<img width="927" height="351" alt="image" src="https://github.com/user-attachments/assets/dc0b95f5-d5d5-403a-8013-0e18a49ed903" />
 
 
 
